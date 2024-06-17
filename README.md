@@ -4,7 +4,7 @@
   This repository contains the code for the Berger Hut website, built using only HTML and CSS. 
   The website was created with the assistance of ChatGPT, ensuring a clean and responsive design.
 </p>
-<br>
+
 <h3>Features</h3>
 <ul>
   <li><b>Responsive Design:</b> The website layout adjusts seamlessly across different devices and screen sizes.</li>
