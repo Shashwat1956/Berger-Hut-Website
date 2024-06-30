@@ -18,3 +18,6 @@
 </ul>
 <br>
 Feel free to contact me for any questions or suggestions. Enjoy browsing the Berger Hut website
+iluwrfbgqpurygf
+;uirebvpqeri
+orughpiu34
