@@ -17,5 +17,5 @@
   <li>Special thanks to ChatGPT for assisting in the development of this website.</li>
 </ul>
 <br>
-Feel free to contact me for any questions or suggestions. Enjoy browsing the Berger Hut website
+Feel free to contact me for any questions or suggestions. Enjoy browsing the Berger Hut website.
 
